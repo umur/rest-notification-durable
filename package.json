@@ -1,0 +1,20 @@
+{
+  "name": "node-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clients": "nodemon clients.js",
+    "server": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "rxjs": "^6.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
